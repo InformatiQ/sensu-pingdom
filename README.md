@@ -1,3 +1,5 @@
+THIS CODE IS STIL EXPERIMENTAL
+
 # sensu-pingdom
 A sensu handler for sending alerts to pingdom
 
